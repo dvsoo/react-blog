@@ -1,8 +1,8 @@
-#react-blog
+# react-blog
 
-react 를 이용해서 만드는 develop blog
+## react and NodeJs 로 만드는 Blog
 
-[기획서]
-https://ovenapp.io/view/yYXNsJw9An9w9zX5f6FPg0nYxExjXSuR/iTZ5R
+_기획서_
+<https://ovenapp.io/view/yYXNsJw9An9w9zX5f6FPg0nYxExjXSuR/iTZ5R/>
 
-[디자인]
+_디자인_
